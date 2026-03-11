@@ -1,0 +1,28 @@
+#EXTM3U x-tvg-url="https://github.com/mitthu1234/iptv/raw/main/guide.xml.gz"
+
+#EXTINF:-1 tvg-id="RCTI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/RCTI_logo_2016.png" group-title="Hiburan", RCTI
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://1s1.rctiplus.id/anevia1/rcti-sdi.m3u8?auth_key=1773259727-3aadd6fe1e45dc4b1372908830e5bf71-0-6bf29fb7da4905c2f658e99a061766bf
+
+#EXTINF:-1 tvg-id="MNCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/df/MNCTV_2015_Logo.png" group-title="Hiburan", MNCTV
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://1s1.rctiplus.id/s-mnctv-sdi.m3u8?auth_key=1773259566-dae306c0f40acdb3df8c9321e399cdb3-0-e85010733819814f814660b131e3ae56
+
+#EXTINF:-1 tvg-id="GTV" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/c/c5/GTV_Logo_2017.png/120px-GTV_Logo_2017.png" group-title="Hiburan", GTV
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://1s1.rctiplus.id/s-gtv-sdi.m3u8?auth_key=1773259671-c30503493b46c9f6a5d65b29fde07308-0-270f0c95762802b012aee53d7ca53edb
+
+#EXTINF:-1 tvg-id="tvOne" tvg-logo="https://www.tvonenews.com/favicon.ico" group-title="Berita", tvOne Live
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1773244128/... (tambahkan link YouTube Anda di sini)
+
+#EXTINF:-1 tvg-id="RTV" tvg-logo="https://www.rtv.co.id/favicon.ico" group-title="Hiburan", RTV (Rajawali TV)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://op-group1-swiftservehd-1.dens.tv/h/h10/01.m3u8
+
+#EXTINF:-1 tvg-id="TransTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/02/Trans_TV_logo.png" group-title="Hiburan", Trans TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8

@@ -1,0 +1,17 @@
+#EXTM3U
+#EXTINF:-1,RCTI
+https://1s1.rctiplus.id/anevia1/rcti-sdi.m3u8?auth_key=1773259727-3aadd6fe1e45dc4b1372908830e5bf71-0-6bf29fb7da4905c2f658e99a061766bf
+#EXTINF:-1,MNCTV
+https://1s1.rctiplus.id/s-mnctv-sdi.m3u8?auth_key=1773259566-dae306c0f40acdb3df8c9321e399cdb3-0-e85010733819814f814660b131e3ae56
+#EXTINF:-1,GTV
+https://1s1.rctiplus.id/s-gtv-sdi.m3u8?auth_key=1773259671-c30503493b46c9f6a5d65b29fde07308-0-270f0c95762802b012aee53d7ca53edb
+#EXTINF:-1,tvOne
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1773244128/ei/gDqxadn3GqGKpt8PkZTw6Ag/ip/2402:8780:1014:4f0e:5904:ad6e:343b:9881/id/yNKvkPJl-tg.4/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ==/playlist_duration/30/manifest_duration/30/demuxed/1/maudio/1/bui/AVNa5-z3JfGeRySe8DCXNUYXX3baqKt7WWQMd7AzzQSRItNjer6ggrm97oPKKL6AqMwCs3_33CUiT05j/spc/6dlaFH4mz6sUyk-VJcIXqCUHogVmYPWYFbNx92gKUg0ll63oYquN8riZo59lDw/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/short_key/1/ncsapi/1/keepalive/yes/fexp/51565116,51565682,51791334/dover/13/itag/0/playlist_type/DVR/sparams/expire,ei,ip,id,source,requiressl,xpc,playlist_duration,manifest_duration,demuxed,maudio,bui,spc,vprv,go,rqh,itag,playlist_type/sig/AHEqNM4wRgIhANfpYtyAQJ9LuCnvVBPxDGXiaCZDRsWUffYwYSJUSrckAiEAuZ7S3I2I8STJT_iE9GcJZRPuCsS0YSJj6pzXCrxwxNU=/file/index.m3u8
+#EXTINF:-1,iNews TV
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1773244653/ei/jTyxafP4IcGB2roP-aC9-A4/ip/2402:8780:1014:4f0e:5904:ad6e:343b:9881/id/Kz3FK5FbBz8.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ==/playlist_duration/30/manifest_duration/30/demuxed/1/maudio/1/bui/AVNa5-yAvC2iq6GAb67pm1_Z2WLvtVpyEPzmLmwq6_YOuaR4OknCfZBgxx81bifnpNyHAwBifxu_YDrB/spc/6dlaFJwjdI8Pmg1Xk7LZuX3VJULZtj3Qfw020bi5zQ5Qk8ZQdfp6Ya5eKJJIF7EO/vprv/1/go/1/rqh/5/reg/0/pacing/0/nvgoi/1/short_key/1/ncsapi/1/keepalive/yes/fexp/51565116,51565681,51791334/dover/13/itag/0/playlist_type/DVR/sparams/expire,ei,ip,id,source,requiressl,xpc,playlist_duration,manifest_duration,demuxed,maudio,bui,spc,vprv,go,rqh,reg,itag,playlist_type/sig/AHEqNM4wRgIhAKesNNCv7jG7yeTMnortQELq0SJwJ7WRvVbzvxMp9H59AiEA17y4CXs7JRkgwGPZQop9HnayWeXMX2_iQJoqiLCnpKs=/file/index.m3u8
+#EXTINF:-1,Spekulasi Netanyahu (Live)
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1773244780/ei/DD2xabb-G4TG9fwPjc2a2Aw/ip/2402:8780:1014:4f0e:5904:ad6e:343b:9881/id/-0b_ymSBSr0.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ==/playlist_duration/3600/manifest_duration/3600/demuxed/1/maudio/1/bui/AVNa5-xc6k2foqGm08mXEUJ_Ie-_AB_MBzpzEv-A0TFlbSm6RaBti3J4mjXRIYxJQar_gMkZkFVGotsY/spc/6dlaFNAPCL1D3Lx6EEnBED3F7UrnrFU4L7oNT2h3I1UB-GhA2eB411SWaQUN1fI1/vprv/1/go/1/rqh/5/reg/0/pacing/0/nvgoi/1/short_key/1/ncsapi/1/keepalive/yes/fexp/51565116,51565681,51791334/dover/13/itag/0/playlist_type/DVR/sparams/expire,ei,ip,id,source,requiressl,xpc,playlist_duration,manifest_duration,demuxed,maudio,bui,spc,vprv,go,rqh,reg,itag,playlist_type/sig/AHEqNM4wRQIhAJ5lEvlpWpcv3Pysj7zxG_MOsjAP4xsS_egYxRhfnv43AiBXii1poKTJpvL66AUi-MDmvWH19JdVH8XnhM4AbAOTWg==/file/index.m3u8
+#EXTINF:-1,RTV
+http://op-group1-swiftservehd-1.dens.tv/h/h10/01.m3u8
+#EXTINF:-1,Trans TV
+https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8

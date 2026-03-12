@@ -1,0 +1,99 @@
+#EXTM3U
+
+#EXTINF:-1,--- TV LOKAL ---
+#EXTINF:-1,RCTI
+http://103.66.62.83:8000/play/a00v/index.m3u8
+#EXTINF:-1,MNCTV
+http://103.66.62.83:8000/play/a00w/index.m3u8
+#EXTINF:-1,GTV
+http://103.66.62.83:8000/play/a00y/index.m3u8
+#EXTINF:-1,iNews
+http://aflaxtv.xyz:8080/umer.zia660/e7388412/157579
+#EXTINF:-1,ANTV
+http://103.66.62.83:8000/play/a00r/index.m3u8
+#EXTINF:-1,Berita Satu
+https://op-group1-swiftservehd-1.dens.tv/h/h209/02.m3u8
+#EXTINF:-1,BTV
+https://op-group1-swiftservehd-1.dens.tv/h/h210/02.m3u8
+#EXTINF:-1,Channel Jowo
+https://op-group1-swiftservehd-1.dens.tv/h/h77/S4/mnf.m3u8
+#EXTINF:-1,CNBC Indonesia
+http://103.66.62.83:8000/play/a00f/index.m3u8
+#EXTINF:-1,CNN Indonesia TV
+http://103.66.62.83:8000/play/a00e/index.m3u8
+#EXTINF:-1,DensPlay
+https://op-group1-swiftservehd-1.dens.tv/h/h246/02.m3u8
+#EXTINF:-1,Garuda TV
+https://hgmtv.com:19360/garudatvlivestreaming/720p.m3u8
+#EXTINF:-1,Indosiar
+https://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
+#EXTINF:-1,Jak TV
+https://op-group1-swiftservesd-1.dens.tv/s/s123/S4/mnf.m3u8
+#EXTINF:-1,Jawa Pos TV
+http://122.248.43.242:1935/JAWAPOSTVJKT/_definst_/myStream/playlist.m3u8
+#EXTINF:-1,JTV
+https://63b2dc7196c38.streamlock.net:1937/JTVSURABAYA/_definst_/myStream/playlist.m3u8
+#EXTINF:-1,Kompas TV
+http://103.160.205.142:9999/stream/channelid/1444379690?profile=pass
+#EXTINF:-1,MDTV
+https://op-group1-swiftservehd-1.dens.tv/h/h223/02.m3u8
+#EXTINF:-1,Mentari HD
+http://103.130.6.240:3058/stream/channelid/779935658?ticket=69170AE582E9272A7CFF487DE757FA609177B2FC&profile=pass
+#EXTINF:-1,Metro TV
+https://op-group1-swiftservehd-1.dens.tv/h/h12/01.m3u8
+#EXTINF:-1,Moji
+https://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
+#EXTINF:-1,Nusantara TV
+https://op-group1-swiftservehd-1.dens.tv/h/h37/01.m3u8
+#EXTINF:-1,Qanat as-Sunnah an-Nabawiyah
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1773339322/ei/Wq6yaf2OB4qj9fwPpt7YiQQ/ip/2402%3A8780%3A1014%3A4f0e%3Af331%3A9cc4%3A723%3A5bf6/id/9A1S0xAPVIs.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51794324/txs/51794322%2C51794323%2C51794324/playlist_duration/30/manifest_duration/30/demuxed/1/maudio/1/bui/AVNa5-wz5op6dsQAYtwE0egpJWBS3WHNnqMjiXlbpLUpamiIoP5uAgkEl1qqAXZfpAvESco8QoyfBJrl/spc/6dlaFPoj4QeM4CfppTwe5OlEqLV1E__6nKxd1lL7VyOhsg07XcEsGuaHGGl4dg/vprv/1/go/1/rqh/5/reg/0/pacing/0/nvgoi/1/short_key/1/ncsapi/1/keepalive/yes/fexp/51565115%2C51565681%2C51791334/dover/13/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Cplaylist_duration%2Cmanifest_duration%2Cdemuxed%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Creg%2Citag%2Cplaylist_type/sig/AHEqNM4wRgIhAIFKOIFstIG4-Up-47-vPQENyXoYo_nXS1O8TzKFf0nIAiEAqM4L4LEhvEQ4xJfYCziZn66eV1sP6xbXx6pSXVIAZ9Q%3D/file/index.m3u8
+#EXTINF:-1,Rodja TV
+https://rodjatv.com/rodjatv/live.m3u8
+#EXTINF:-1,RTV
+https://op-group1-swiftservehd-1.dens.tv/h/h10/01.m3u8
+#EXTINF:-1,SCTV
+https://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
+#EXTINF:-1,Trans TV
+http://103.66.62.83:8000/play/a00x/index.m3u8
+#EXTINF:-1,Trans7
+http://103.66.62.83:8000/play/a00u/index.m3u8
+#EXTINF:-1,TVOne
+http://op-group1-swiftservehd-1.dens.tv/h/h40/01.m3u8
+#EXTINF:-1,TVRI
+https://op-group1-swiftservesd-1.dens.tv/s/s11/01.m3u8
+#EXTINF:-1,TVRI Lampung
+http://aflaxtv.xyz:8080/umer.zia660/e7388412/166693
+#EXTINF:-1,TVRI Sport
+https://op-group1-swiftservesd-1.dens.tv/s/s107/01.m3u8
+#EXTINF:-1,VTV
+http://103.66.62.83:8000/play/a00c/index.m3u8
+#EXTINF:-1,Wesal TV
+https://ams.juraganstreaming.com:5443/LiveApp/streams/wesaltv.m3u8
+
+#EXTINF:-1,--- BERITA INTERNASIONAL ---
+#EXTINF:-1,Al Jazeera
+https://live-hls-web-aje-gcp.thehlive.com/AJE/06.m3u8
+#EXTINF:-1,Cina
+https://video.cgtn.com/news/2026-03-07/When-AI-learns-to-play-video-games-1LjrbJeXBx6/video/wu_1jj31g6kb1mbq1r5a1n7u1ru43km807/3000000-1280x720.m3u8
+#EXTINF:-1,DW English
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/master.m3u8
+#EXTINF:-1,Korea Central TV
+https://streamer.nknews.org/tvhls/stream.m3u8
+#EXTINF:-1,NDTV 24x7
+https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678-b/ndtv24x7/master.m3u8
+#EXTINF:-1,Noticias 24H
+https://rtvelivestream.rtve.es/rtvesec/24h/24h_main_dvr.m3u8
+#EXTINF:-1,RT News
+https://rt-glb.rttv.com/dvr/rtnews/playlist.m3u8
+#EXTINF:-1,Seoul Live Cam
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1773342942/ei/fryyaf3bNZeo0-kPmOyj-QQ/ip/2402%3A8780%3A1014%3A4f0e%3A3b2%3Ad1%3Afa1f%3Ae270/id/-JhoMGoAfFc.6/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51774351/txs/51774349%2C51774350%2C51774351%2C51774352/playlist_duration/3600/manifest_duration/3600/demuxed/1/maudio/1/bui/AVNa5-wuMkFhaVfIF0bNDoho3sVJUGLQ3Zc9vn-USHh8CV5mAziYBP0bHp2N33cDBnzT-d00WzvXKTdH/spc/6dlaFJ7XAq98dHEibwn6-uXJ3iLuUQVrFAY1-sAEBuZN_47EOnh_n5g3ocLYAw/vprv/1/go/1/rqh/5/reg/0/pacing/0/nvgoi/1/short_key/1/ncsapi/1/keepalive/yes/fexp/51565115%2C51565681%2C51791334/dover/13/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Cplaylist_duration%2Cmanifest_duration%2Cdemuxed%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Creg%2Citag%2Cplaylist_type/sig/AHEqNM4wRQIhAMze8LnODJs2QpCwlBi8xjJhFXBdqeNofcw18WVkZCofAiBTkopYvJ4LwxtyvuHHVJYIVWa3WPytilOt02NijNw-5A%3D%3D/file/index.m3u8
+#EXTINF:-1,Sky News
+https://linear901-oo-hls0-prd-gtm.delivery.skycdp.com/v1/master/6404a5d732e04991ed59ac7790b61cc065c9aabd/prod-gb-lin-skynews-hls-25-web/master.m3u8?ads.cdn=https://linear901-oo-hls0-prd-gtm.delivery.skycdp.com&ads.csid=sitesection:SkyNews:Web&manifest.mthost=7a38d30e7dd84cd0872ab4f691c38f58&manifest.region=mediatailor.eu-west-1.amazonaws.com
+#EXTINF:-1,UN Web TV
+https://cdnapisec.kaltura.com/p/2503451/sp/250345100/playManifest/entryId/1_pipwpf7l/protocol/https/format/applehttp/flavorIds/1_barqy1ua,1_ppk9wkmb,1_w60baibx,1_i9va0uy6,1_r00ouviu,1_bxx1afhx,1_3xi51y29,1_3qb35ope,1_eu9fn81c,1_i4gvb7k1,1_wioh554u,1_0zc8mkin,1_9zod7oz6,1_dzjvhr64,1_2wzngmcd,1_stnpvacp,1_4a82ujwc,1_6rhc6h7x,1_49ufksqc,1_r46rt44d,1_dt7sbnc6,1_mi8gvs71,1_2szpsgm5,1_qxlvksni,1_dosc84k0,1_9aplflay,1_m5tcnaz5,1_jniyf6mr,1_6ewgh00m/a.m3u8?uiConfId=49754663&playSessionId=9b3f3d4b-9084-0a50-db71-57dc631cefba:87a7d98a-b9df-5fc4-999b-5c6b3a22c1c4&referrer=aHR0cHM6Ly93ZWJ0di51bi5vcmcvZW4=&clientTag=html5:v7.234
+#EXTINF:-1,WeDo Sports
+https://op-group1-swiftservehd-1.dens.tv/h/h71/wedo_sport.m3u8?app_type=web&userid=lite&chname=wedoSports
+#EXTINF:-1,WeDo TV Movies
+https://op-group1-swiftservehd-1.dens.tv/h/h70/wedotv_movie.m3u8?app_type=web&userid=lite&chname=wedotvMovies
+#EXTINF:-1,WeDo TV Big Stories
+https://op-group1-kang.dens.tv/h/h69/wedotv_big_stories.m3u8?app_type=web&userid=lite&chname=wedotvBig_Stories

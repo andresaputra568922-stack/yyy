@@ -1,0 +1,57 @@
+#EXTM3U
+#EXTINF:-1,ANTV
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/165072
+#EXTINF:-1,RCTI
+http://103.66.62.83:8000/play/a00v/index.m3u8
+#EXTINF:-1,MNCTV
+http://103.66.62.83:8000/play/a00w/index.m3u8
+#EXTINF:-1,GTV
+http://103.66.62.83:8000/play/a00y/index.m3u8
+#EXTINF:-1,Indosiar Digital
+http://103.66.62.83:8000/play/a00o/index.m3u8
+#EXTINF:-1,SCTV
+https://op-group1-swiftservehd-1.dens.tv/h/h217/index.m3u8
+#EXTINF:-1,Trans TV
+https://video.detik.com/transtv/smil:transtv.smil/index.m3u8
+#EXTINF:-1,Trans7
+https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
+#EXTINF:-1,RTV
+https://op-group1-swiftservehd-1.dens.tv/h/h10/index.m3u8
+#EXTINF:-1,iNews
+http://aflaxtv.xyz:8080/umer.zia660/e7388412/157579
+#EXTINF:-1,Kompas TV
+http://103.160.205.142:9999/stream/channelid/1444379690?profile=pass
+#EXTINF:-1,Metro TV
+https://op-group1-swiftservehd-1.dens.tv/h/h12/index.m3u8?app_type=web&userid=lite&chname=Metro_TV
+#EXTINF:-1,TVOne
+http://op-group1-swiftservehd-1.dens.tv/h/h40/01.m3u8
+#EXTINF:-1,TVRI
+https://op-group1-swiftservesd-1.dens.tv/s/s11/index.m3u8?app_type=web&userid=lite&chname=TVRI
+#EXTINF:-1,TVRI Lampung
+http://aflaxtv.xyz:8080/umer.zia660/e7388412/166693
+#EXTINF:-1,TVRI Sport
+https://op-group1-swiftservesd-1.dens.tv/s/s107/02.m3u8
+#EXTINF:-1,Mentari HD
+http://103.130.6.240:3058/stream/channelid/779935658?ticket=69170AE582E9272A7CFF487DE757FA609177B2FC&profile=pass
+#EXTINF:-1,Moji
+https://op-group1-swiftservehd-1.dens.tv/h/h207/index.m3u8
+#EXTINF:-1,Jak TV
+https://op-group1-swiftservesd-1.dens.tv/s/s123/index2.m3u8
+#EXTINF:-1,Berita Satu
+https://op-group1-swiftservehd-1.dens.tv/h/h209/01.m3u8
+#EXTINF:-1,CNN Indonesia TV
+http://103.66.62.83:8000/play/a00e/index.m3u8
+#EXTINF:-1,CNBC Indonesia
+http://103.66.62.83:8000/play/a00f/index.m3u8
+#EXTINF:-1,Channel Jowo
+https://op-group1-swiftservehd-1.dens.tv/h/h77/index2.m3u8?app_type=web&userid=lite&chname=Channel_Jowo
+#EXTINF:-1,Jawa Pos TV
+http://122.248.43.242:1935/JAWAPOSTVJKT/_definst_/myStream/playlist.m3u8
+#EXTINF:-1,JTV
+https://63b2dc7196c38.streamlock.net:1937/JTVSURABAYA/_definst_/myStream/playlist.m3u8
+#EXTINF:-1,Garuda TV
+https://hgmtv.com:19360/garudatvlivestreaming/720p.m3u8
+#EXTINF:-1,MDTV
+https://op-group1-swiftservehd-1.dens.tv/h/h223/02.m3u8
+#EXTINF:-1,Rodja TV
+https://rodjatv.com/rodjatv/live.m3u8

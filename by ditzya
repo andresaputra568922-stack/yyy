@@ -1,0 +1,101 @@
+#EXTM3U x-tvg-url="https://github.com/aqis-id/epg/raw/refs/heads/main/guide.xml.gz"
+#PLAYLIST: Indonesia by Ditzya
+
+#EXTINF:-1 tvg-id="RCTI" group-title="NASIONAL",RCTI
+http://103.66.62.83:8000/play/a00v/index.m3u8
+
+#EXTINF:-1 tvg-id="MNCTV" group-title="NASIONAL",MNCTV
+http://103.66.62.83:8000/play/a00w/index.m3u8
+
+#EXTINF:-1 tvg-id="GTV" tvg-logo="https://files.catbox.moe/h4i55z.jpeg" group-title="NASIONAL",GTV
+http://103.66.62.83:8000/play/a00y/index.m3u8
+
+#EXTINF:-1 tvg-id="DAAITV" group-title="NASIONAL",DAAI TV
+https://pull.daaiplus.com/live-DAAIPLUS/live-DAAIPLUS_HD.m3u8
+
+#EXTINF:-1 tvg-id="iNews" group-title="BERITA",iNews
+http://aflaxtv.xyz:8080/umer.zia660/e7388412/157579
+
+#EXTINF:-1 tvg-id="ANTV" group-title="NASIONAL",ANTV
+http://103.66.62.83:8000/play/a00r/index.m3u8
+
+#EXTINF:-1 group-title="BERITA",Berita Satu
+https://op-group1-swiftservehd-1.dens.tv/h/h209/02.m3u8
+
+#EXTINF:-1 group-title="BERITA",BTV
+https://op-group1-swiftservehd-1.dens.tv/h/h210/02.m3u8
+
+#EXTINF:-1 group-title="DAERAH",Channel Jowo
+https://op-group1-swiftservehd-1.dens.tv/h/h77/S4/mnf.m3u8
+
+#EXTINF:-1 tvg-id="CNBCIndonesia" group-title="EKONOMI",CNBC Indonesia
+http://103.66.62.83:8000/play/a00f/index.m3u8
+
+#EXTINF:-1 tvg-id="CNNIndonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/CNN_International_logo.svg/1200px-CNN_International_logo.svg.png" group-title="BERITA",CNN Indonesia TV
+http://103.66.62.83:8000/play/a00e/index.m3u8
+
+#EXTINF:-1 group-title="HIBURAN",DensPlay
+https://op-group1-swiftservehd-1.dens.tv/h/h246/02.m3u8
+
+#EXTINF:-1 group-title="NASIONAL",Garuda TV
+https://hgmtv.com:19360/garudatvlivestreaming/720p.m3u8
+
+#EXTINF:-1 tvg-id="Indosiar" tvg-logo="https://www.transtv.co.id/livetv/anytv/INDOSIAR_live_streaming_tv.jpg" group-title="NASIONAL",Indosiar
+https://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
+
+#EXTINF:-1 group-title="HIBURAN",Jak TV
+https://op-group1-swiftservesd-1.dens.tv/s/s123/S4/mnf.m3u8
+
+#EXTINF:-1 group-title="DAERAH",Jawa Pos TV
+http://122.248.43.242:1935/JAWAPOSTVJKT/_definst_/myStream/playlist.m3u8
+
+#EXTINF:-1 group-title="DAERAH",JTV
+https://63b2dc7196c38.streamlock.net:1937/JTVSURABAYA/_definst_/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="KompasTV" group-title="BERITA",Kompas TV
+http://103.160.205.142:9999/stream/channelid/1444379690?profile=pass
+
+#EXTINF:-1 group-title="HIBURAN",MDTV
+https://op-group1-swiftservehd-1.dens.tv/h/h223/02.m3u8
+
+#EXTINF:-1 group-title="ANAK",Mentari HD
+http://103.130.6.240:3058/stream/channelid/779935658?ticket=69170AE582E9272A7CFF487DE757FA609177B2FC&profile=pass
+
+#EXTINF:-1 tvg-id="MetroTV" tvg-logo="https://thumbor.prod.vidiocdn.com/CN732k1UkV-MWtonPwmlMzDE-gY=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/777/metro-tv-461c64.jpg" group-title="BERITA",Metro TV
+https://op-group1-swiftservehd-1.dens.tv/h/h12/01.m3u8
+
+#EXTINF:-1 tvg-id="Moji" group-title="HIBURAN",Moji
+https://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
+
+#EXTINF:-1 group-title="NASIONAL",Nusantara TV
+https://op-group1-swiftservehd-1.dens.tv/h/h37/01.m3u8
+
+#EXTINF:-1 tvg-id="RodjaTV" group-title="RELIGI",Rodja TV
+https://rodjatv.com/rodjatv/live.m3u8
+
+#EXTINF:-1 group-title="NASIONAL",RTV
+https://op-group1-swiftservehd-1.dens.tv/h/h10/01.m3u8
+
+#EXTINF:-1 tvg-id="SCTV" group-title="NASIONAL",SCTV
+https://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
+
+#EXTINF:-1 tvg-id="TransTV" group-title="NASIONAL",Trans TV
+http://103.66.62.83:8000/play/a00x/index.m3u8
+
+#EXTINF:-1 tvg-id="Trans7" group-title="NASIONAL",Trans7
+http://103.66.62.83:8000/play/a00u/index.m3u8
+
+#EXTINF:-1 tvg-id="TVOne" group-title="BERITA",TVOne
+http://op-group1-swiftservehd-1.dens.tv/h/h40/01.m3u8
+
+#EXTINF:-1 tvg-id="TVRI" group-title="NASIONAL",TVRI
+https://op-group1-swiftservesd-1.dens.tv/s/s11/01.m3u8
+
+#EXTINF:-1 tvg-id="TVRISport" group-title="SPORT",TVRI Sport
+https://op-group1-swiftservesd-1.dens.tv/s/s107/01.m3u8
+
+#EXTINF:-1 group-title="NASIONAL",VTV
+http://103.66.62.83:8000/play/a00c/index.m3u8
+
+#EXTINF:-1 group-title="RELIGI",Wesal TV
+https://ams.juraganstreaming.com:5443/LiveApp/streams/wesaltv.m3u8
